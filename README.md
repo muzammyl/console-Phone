@@ -1,6 +1,6 @@
 # console-Phone
 
-This repo is based on a simple console based phone, for demo purposes. It may have fixes, feel freee to contribute, it help freshers to understand **beginer-level** code easily.
+This repo is based on a simple console based phone, for demo purposes. It may have fixes, feel free to contribute, it help freshers to understand **beginer-level** code easily.
 
 ----------
 ## Mailing Support
