@@ -2,6 +2,7 @@
 #include<ctime>
 #include<string>
 #include<iomanip>
+#include<stdlib.h>
 using namespace std;
 
 clock_t clock() {
@@ -380,37 +381,37 @@ main() {
         switch(ch) {
             case 1: {
                 phone();
-                system("clear");
+                system("cls");
                 break;
             }
             case 2: {
                 contact();
-                system("clear");
+                system("cls");
                 break;
             }
             case 3: {
                 message();
-                system("clear");
+                system("cls");
                 break;
             }
             case 4: {
                 calculator();
-                system("clear");
+                system("cls");
                 break;
             }
             case 5: {
                 notes();
-                system("clear");
+                system("cls");
                 break;
             }
             case 6: {
                 games();
-                system("clear");
+                system("cls");
                 break;
             }
             default: {
                 cout << "Exiting..." << endl;
-                system("clear");
+                system("cls");
             }
         }
         if(ch == 0) {
